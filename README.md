@@ -3,12 +3,12 @@
 
 ---
 
-<figure>
-  <img src="assets/images/some-kind-of-bird.png" width="300" height="200" alt="a bird">
-  <figcaption align="center">Bird</figcaption>
+<figure align="center">
+  <img src="assets/images/some-kind-of-bird.png" width="300" height="200" alt="a bird" align="center">
+  <figcaption>Bird</figcaption>
 </figure>
 
-#### 
+#### Clicking
 - [Stuff](#stuff)
 - 👀
 - 💞️
