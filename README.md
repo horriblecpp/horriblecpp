@@ -8,6 +8,8 @@
 
 ---
 
+[![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)]()
+
 ![GH stats](https://github-readme-stats.vercel.app/api?username=horriblecpp&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horriblecpp)](https://github.com/horriblecpp/github-readme-stats)
