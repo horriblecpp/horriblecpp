@@ -1,4 +1,4 @@
-<p align="center">HorribleC++</p>
+<p align="center"><strong>HorribleC++</strong></p>
 <!-- Blank line before and after horizontal rule -->
 
 ---
