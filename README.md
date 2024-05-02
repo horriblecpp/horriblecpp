@@ -15,5 +15,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horriblecpp)](https://github.com/horriblecpp/github-readme-stats)
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=fd4d20430c28aaf1bba5722d7cade822)](https://gist.github.com/horriblecpp/fd4d20430c28aaf1bba5722d7cade822)
-
-
